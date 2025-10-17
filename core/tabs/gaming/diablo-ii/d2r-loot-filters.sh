@@ -105,7 +105,7 @@ mkdir -p "$mods_path"
 
 # Download the latest release
 printf "%b\n" "Downloading the latest loot filter..."
-if ! curl -sSLo /tmp/lootfilter.zip https://github.com/ChrisTitusTech/d2r-loot-filter/releases/latest/download/lootfilter.zip; then
+if ! curl -sSLo /tmp/lootfilter.zip https://github.com/ArmaanLala/d2r-loot-filter/releases/latest/download/lootfilter.zip; then
     printf "%b\n" "${RED}Failed to download the loot filter.${RC}"
     exit 1
 fi

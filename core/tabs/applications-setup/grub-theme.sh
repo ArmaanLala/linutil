@@ -8,7 +8,7 @@ themeinstall(){
     if [ -d 'Top-5-Bootloader-Themes' ]; then
         rm -rf 'Top-5-Bootloader-Themes'
     fi
-    git clone "https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes"
+    git clone "https://github.com/ArmaanLala/Top-5-Bootloader-Themes"
     cd "Top-5-Bootloader-Themes"
     "$ESCALATION_TOOL" ./install.sh
 }

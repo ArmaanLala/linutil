@@ -1,7 +1,7 @@
 # Chris Titus Tech's Linux Utility
 
-[![Version](https://img.shields.io/github/v/release/ChrisTitusTech/linutil?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/ChrisTitusTech/linutil/releases/latest)
-![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/ChrisTitusTech/linutil/linutil?label=Total%20Downloads&style=for-the-badge)
+[![Version](https://img.shields.io/github/v/release/ArmaanLala/linutil?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/ArmaanLala/linutil/releases/latest)
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/ArmaanLala/linutil/linutil?label=Total%20Downloads&style=for-the-badge)
 [![Crates.io Version](https://img.shields.io/crates/v/linutil_tui?style=for-the-badge&color=%23af3a03)](https://crates.io/crates/linutil_tui)
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/RUbZUZyByQ?theme=default-inverted&style=for-the-badge)](https://discord.gg/RUbZUZyByQ)
 ![Preview](/.github/preview.gif)
@@ -9,7 +9,7 @@
 **Linutil** is a distro-agnostic toolbox designed to simplify everyday Linux tasks. It helps you set up applications and optimize your system for specific use cases. The utility is actively developed in Rust 🦀, providing performance and reliability.
 
 > [!NOTE]
-> Since the project is still in active development, you may encounter some issues. Please consider [submitting feedback](https://github.com/ChrisTitusTech/linutil/issues) if you do.
+> Since the project is still in active development, you may encounter some issues. Please consider [submitting feedback](https://github.com/ArmaanLala/linutil/issues) if you do.
 
 ## 💡 Usage
 To get started, pick which branch you would like to use, then run the command in your terminal:
@@ -139,7 +139,7 @@ Docs are now [here](https://github.com/Chris-Titus-Docs/linutil-docs)
 
 Thank you to everyone who has contributed to the development of Linutil. Your efforts are greatly appreciated, and you're helping make this tool better for everyone!
 
-[![Contributors](https://contrib.rocks/image?repo=ChrisTitusTech/linutil)](https://github.com/ChrisTitusTech/linutil/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=ArmaanLala/linutil)](https://github.com/ArmaanLala/linutil/graphs/contributors)
 
 ## 📜 Contributor Milestones
 

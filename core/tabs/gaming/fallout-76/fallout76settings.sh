@@ -454,7 +454,7 @@ if [ -d "/tmp/fallout76-configs" ]; then
 fi
 
 printf "%b\n" "${YELLOW}Cloning the latest custom settings and mods...${RC}"
-if ! git clone https://github.com/ChrisTitusTech/fallout76-configs /tmp/fallout76-configs; then
+if ! git clone https://github.com/ArmaanLala/fallout76-configs /tmp/fallout76-configs; then
     printf "%b\n" "${RED}Failed to clone repository.${RC}"
     exit 1
 fi

@@ -20,7 +20,7 @@ makeDWM() {
     [ ! -d "$HOME/.local/share" ] && mkdir -p "$HOME/.local/share/"
     if [ ! -d "$HOME/.local/share/dwm-titus" ]; then
 	printf "%b\n" "${YELLOW}DWM-Titus not found, cloning repository...${RC}"
-	cd "$HOME/.local/share/" && git clone https://github.com/ChrisTitusTech/dwm-titus.git # CD to Home directory to install dwm-titus This path can be changed (e.g. to linux-toolbox directory)
+	cd "$HOME/.local/share/" && git clone https://github.com/ArmaanLala/dwm-titus.git # CD to Home directory to install dwm-titus This path can be changed (e.g. to linux-toolbox directory)
 	cd dwm-titus/ # Hardcoded path, maybe not the best.
     else
 	printf "%b\n" "${GREEN}DWM-Titus directory already exists, replacing..${RC}"
@@ -104,7 +104,7 @@ configure_backgrounds() {
     # Check if the backgrounds directory (BG_DIR) exists
     if [ ! -d "$BG_DIR" ]; then
         # If the backgrounds directory doesn't exist, attempt to clone a repository containing backgrounds
-        if ! git clone https://github.com/ChrisTitusTech/nord-background.git "$PIC_DIR/backgrounds"; then
+        if ! git clone https://github.com/ArmaanLala/nord-background.git "$PIC_DIR/backgrounds"; then
             # If the git clone command fails, print an error message and return with a status of 1
             printf "%b\n" "${RED}Failed to clone the repository${RC}"
             return 1

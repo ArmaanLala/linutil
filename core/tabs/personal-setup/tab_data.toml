@@ -1,0 +1,26 @@
+name = "Personal Setup"
+
+[[data]]
+name = "Lala Base"
+description = "Installs all base system packages including shell tools, file management utilities, system monitoring tools, development essentials, documentation tools, network utilities, and data processing tools. This is the foundation package that should be installed first."
+script = "lala-base-setup.sh"
+task_list = "I MP"
+
+[[data]]
+name = "Lala Desktop"
+description = "Installs complete Hyprland desktop environment with all essential applications, media tools, audio system, and fonts. Requires lala-base to be installed first."
+script = "lala-desktop-setup.sh"
+task_list = "I MP"
+
+[[data]]
+name = "Lala Dev"
+description = "Installs comprehensive development environment including build tools, programming languages (Go, Node.js, Python, Rust, Java), debugging tools, and development utilities like Ghidra."
+script = "lala-dev-setup.sh"
+task_list = "I MP"
+
+[[data]]
+name = "Lala Full Setup"
+description = "Complete system setup - installs all Lala packages (base, desktop, and dev) in the correct order. This is equivalent to installing the lala-main meta-package."
+script = "lala-full-setup.sh"
+task_list = "I MP"
+multi_select = false

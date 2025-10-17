@@ -30,8 +30,8 @@ setupKittyConfig() {
         cp -r "${HOME}/.config/kitty" "${HOME}/.config/kitty-bak"
     fi
     mkdir -p "${HOME}/.config/kitty/"
-    curl -sSLo "${HOME}/.config/kitty/kitty.conf" https://github.com/ChrisTitusTech/dwm-titus/raw/main/config/kitty/kitty.conf
-    curl -sSLo "${HOME}/.config/kitty/nord.conf" https://github.com/ChrisTitusTech/dwm-titus/raw/main/config/kitty/nord.conf
+    curl -sSLo "${HOME}/.config/kitty/kitty.conf" https://github.com/ArmaanLala/dwm-titus/raw/main/config/kitty/kitty.conf
+    curl -sSLo "${HOME}/.config/kitty/nord.conf" https://github.com/ArmaanLala/dwm-titus/raw/main/config/kitty/nord.conf
 }
 
 checkEnv

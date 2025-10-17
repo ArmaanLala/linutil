@@ -43,7 +43,7 @@ setupFastfetchConfig() {
         cp -r "${HOME}/.config/fastfetch" "${HOME}/.config/fastfetch-bak"
     fi
     mkdir -p "${HOME}/.config/fastfetch/"
-    curl -sSLo "${HOME}/.config/fastfetch/config.jsonc" https://raw.githubusercontent.com/ChrisTitusTech/mybash/main/config.jsonc
+    curl -sSLo "${HOME}/.config/fastfetch/config.jsonc" https://raw.githubusercontent.com/ArmaanLala/mybash/main/config.jsonc
 }
 
 setupFastfetchShell() {

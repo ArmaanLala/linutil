@@ -5,7 +5,7 @@ documentation = "https://christitustech.github.io/linutil"
 readme = "../README.md"
 edition = "2021"
 license.workspace = true
-repository = "https://github.com/ChrisTitusTech/linutil/tree/main/tui"
+repository = "https://github.com/ArmaanLala/linutil/tree/main/tui"
 version.workspace = true
 include = ["src/*.rs", "Cargo.toml", "cool_tips.txt", "../man/linutil.1"]
 

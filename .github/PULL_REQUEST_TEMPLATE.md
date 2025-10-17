@@ -1,6 +1,6 @@
 <!--
 Read Contributing Guidelines before opening a PR.
-https://github.com/ChrisTitusTech/linutil/blob/main/.github/CONTRIBUTING.md
+https://github.com/ArmaanLala/linutil/blob/main/.github/CONTRIBUTING.md
 -->
 
 ## Type of Change

@@ -10,7 +10,7 @@ cloneNeovim() {
         rm -rf "$gitpath"
     fi
     mkdir -p "$HOME/.local/share" # Only create the dir if it doesn't exist.
-    cd "$HOME" && git clone https://github.com/ChrisTitusTech/neovim.git "$HOME/.local/share/neovim"
+    cd "$HOME" && git clone https://github.com/ArmaanLala/neovim.git "$HOME/.local/share/neovim"
 }
 
 installNeovim() {

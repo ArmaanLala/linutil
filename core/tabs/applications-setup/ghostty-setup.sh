@@ -30,7 +30,7 @@ setupGhosttyConfig() {
         cp -r "${HOME}/.config/ghostty" "${HOME}/.config/ghostty-bak"
     fi
     mkdir -p "${HOME}/.config/ghostty/"
-    curl -sSLo "${HOME}/.config/ghostty/config" "https://raw.githubusercontent.com/ChrisTitusTech/dwm-titus/main/config/ghostty/config"
+    curl -sSLo "${HOME}/.config/ghostty/config" "https://raw.githubusercontent.com/ArmaanLala/dwm-titus/main/config/ghostty/config"
     printf "%b\n" "${GREEN}Ghostty configuration files copied.${RC}"
 }
 

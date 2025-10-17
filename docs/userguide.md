@@ -23,7 +23,7 @@
 - **Neovim**: Neovim is a refactor, and sometimes redactor, in the tradition of Vim.
 It is not a rewrite but a continuation and extension of Vim.
 This command configures neovim from CTT's neovim configuration.
-https://github.com/ChrisTitusTech/neovim
+https://github.com/ArmaanLala/neovim
 - **Ngrok**: Ngrok is a tool that creates secure, temporary tunnels to expose local servers to the internet for testing and development.
 - **Sublime Text**: Sublime Text is a fast, lightweight, and customizable text editor known for its simplicity, powerful features, and wide range of plugins for various programming languages.
 - **VS Code**: Visual Studio Code (VS Code) is a lightweight, open-source code editor with built-in support for debugging, version control, and extensions for various programming languages and frameworks.
@@ -53,7 +53,7 @@ https://github.com/ChrisTitusTech/neovim
 - **Android Debloater**: Universal Android Debloater (UAD) is a tool designed to help users remove bloatware and unnecessary pre-installed applications from Android devices, enhancing performance and user experience.
 - **Auto CPU Frequency**: Automatic CPU speed & power optimizer.
 https://github.com/AdnanHodzic/auto-cpufreq
-- **Bash Prompt**: The .bashrc file is a script that runs every time a new terminal session is started in Unix-like operating systems. It is used to configure the shell session, set up aliases, define functions, and more, making the terminal easier to use and more powerful. This command configures the key sections and functionalities defined in the .bashrc file from CTT's mybash repository. https://github.com/ChrisTitusTech/mybash
+- **Bash Prompt**: The .bashrc file is a script that runs every time a new terminal session is started in Unix-like operating systems. It is used to configure the shell session, set up aliases, define functions, and more, making the terminal easier to use and more powerful. This command configures the key sections and functionalities defined in the .bashrc file from CTT's mybash repository. https://github.com/ArmaanLala/mybash
 - **Bottles**: Bottles allows Windows software, like applications and games, to run on Linux. Bottles also provides tools to categorize, organize and optimize your applications.
 - **Docker**: Docker is an open platform that uses OS-level virtualization to deliver software in packages called containers.
 - **Podman**: Podman is a daemon-less open platform that uses OS-level virtualization to deliver software in packages called containers.
@@ -63,14 +63,14 @@ It manages windows in tiled, monocle and floating layouts.
 All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
 This command installs and configures DWM and a desktop manager.
 The list of patches applied can be found in CTT's DWM repository
-https://github.com/ChrisTitusTech/dwm-titus
-- **Fastfetch**: Fastfetch is a neofetch-like tool for fetching system information and displaying it prettily. It is written mainly in C, with performance and customizability in mind. This command installs fastfetch and configures from CTT's mybash repository. https://github.com/ChrisTitusTech/mybash
+https://github.com/ArmaanLala/dwm-titus
+- **Fastfetch**: Fastfetch is a neofetch-like tool for fetching system information and displaying it prettily. It is written mainly in C, with performance and customizability in mind. This command installs fastfetch and configures from CTT's mybash repository. https://github.com/ArmaanLala/mybash
 - **Flatpak / Flathub**: Flatpak is a universal application sandbox for Linux that uses isolated packages from Flathub to prevent conflicts and system alterations, while alleviating dependency concerns. This command installs Flatpak and adds the Flathub repository
-- **Grub Theme**: Installs ChrisTitusTech's Top 5 Bootloader Themes script to allow for easy customization of GRUB.
+- **Grub Theme**: Installs ArmaanLala's Top 5 Bootloader Themes script to allow for easy customization of GRUB.
 - **Kitty**: kitty is a free and open-source GPU-accelerated terminal emulator for Linux, macOS, and some BSD distributions, focused on performance and features. kitty is written in a mix of C and Python programming languages. This command installs and configures kitty.
 - **Linutil Installer**: Installs a distro-specific Linutil package locally.
 - **Linutil Updater**: Updates your local Linutil crate installation.
-- **Rofi**: Rofi is a window switcher, run dialog, ssh-launcher and dmenu replacement that started as a clone of simpleswitcher, written by Sean Pringle and later expanded by Dave Davenport. This command installs and configures rofi with configuration from CTT's DWM repo. https://github.com/ChrisTitusTech/dwm-titus
+- **Rofi**: Rofi is a window switcher, run dialog, ssh-launcher and dmenu replacement that started as a clone of simpleswitcher, written by Sean Pringle and later expanded by Dave Davenport. This command installs and configures rofi with configuration from CTT's DWM repo. https://github.com/ArmaanLala/dwm-titus
 - **Waydroid**: Waydroid is an emulator that allows you to run Android apps and games on Linux.
 - **ZSH Prompt**: The Z shell is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh. This command installs ZSH prompt and provides basic configuration.
 
@@ -79,7 +79,7 @@ https://github.com/ChrisTitusTech/dwm-titus
 
 ### Diablo II Resurrected
 
-- **Loot Filter**: This is a loot filter for Diablo II Resurrected. It's designed to be a simple, clean, and easy to read loot filter that highlights the most important items. Works on battle.net and single player. No frills, no config, just highlights high runes and other valuable items. For more information visit: https://github.com/ChrisTitusTech/d2r-loot-filter
+- **Loot Filter**: This is a loot filter for Diablo II Resurrected. It's designed to be a simple, clean, and easy to read loot filter that highlights the most important items. Works on battle.net and single player. No frills, no config, just highlights high runes and other valuable items. For more information visit: https://github.com/ArmaanLala/d2r-loot-filter
 
 ### Fallout 76
 

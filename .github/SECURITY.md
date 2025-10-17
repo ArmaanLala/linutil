@@ -3,7 +3,7 @@
 ## Supported Versions
 
 It is recommended that you use the stable branch as it's tested and used by most. The dev branch may contain bleeding-edge commits that are not well tested and are not meant to be used in production environments.<br>
-Version tags lower than the [latest stable release](https://github.com/ChrisTitusTech/linutil/releases/latest) are **not** supported.
+Version tags lower than the [latest stable release](https://github.com/ArmaanLala/linutil/releases/latest) are **not** supported.
 
 | Branch  | Supported              |
 | ------- | ---------------------- |
@@ -12,7 +12,7 @@ Version tags lower than the [latest stable release](https://github.com/ChrisTitu
 
 | Version                                            | Supported              |
 | -------------------------------------------------- | ---------------------- |
-| [![LATEST](https://img.shields.io/github/v/release/ChrisTitusTech/linutil?color=%230567ff&label=Latest&style=for-the-badge)](https://github.com/ChrisTitusTech/linutil/releases/latest) | :white_check_mark: YES |
+| [![LATEST](https://img.shields.io/github/v/release/ArmaanLala/linutil?color=%230567ff&label=Latest&style=for-the-badge)](https://github.com/ArmaanLala/linutil/releases/latest) | :white_check_mark: YES |
 | Below LATEST                                       | :x:                 NO |
 | Above LATEST                                       | :x:                 NO |
 
